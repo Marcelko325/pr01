@@ -4,3 +4,4 @@
 -stav praktickej casti 25%
 -vsetko je hotove 
 -termin odovzdania
+-cele zle 
