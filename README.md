@@ -1,1 +1,2 @@
-# pr01
+# Moja naoblubenejsia zaverecna praca
+## Bakalarska praca na temu GIT
